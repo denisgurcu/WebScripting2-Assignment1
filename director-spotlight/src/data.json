@@ -1,0 +1,101 @@
+{
+    "directors": [
+      {
+        "name": "Quentin Tarantino",
+        "style": "tarantino-style",
+        "movies": [
+          {
+            "src": "./src/img/pulp.png",
+            "title": "Pulp Fiction",
+            "description": "A story about the intersecting lives of various criminals. Wild, quirky, and full of surprises.",
+            "link": "https://www.imdb.com/title/tt0110912/"
+          },
+          {
+            "src": "./src/img/killbill.png",
+            "title": "Kill Bill",
+            "description": "A bride seeks vengeance against her former teammates who betrayed her. Stylish action at its best.",
+            "link": "https://www.imdb.com/title/tt0266697/"
+          },
+          {
+            "src": "./src/img/inglourious.png",
+            "title": "Inglourious Basterds",
+            "description": "Set during WWII, a group of Jewish-American soldiers plot to kill Nazi leaders. Bold and intense.",
+            "link": "https://www.imdb.com/title/tt0361748/"
+          }
+        ]
+      },
+      {
+        "name": "Gaspar Noé",
+        "style": "noe-style",
+        "movies": [
+          {
+            "src": "./src/img/irreversable.png",
+            "title": "Irreversible",
+            "description": "A harrowing tale told in reverse, exploring love, vengeance, and the dark side of humanity.",
+            "link": "https://www.imdb.com/title/tt0290673/"
+          },
+          {
+            "src": "./src/img/void.png",
+            "title": "Enter The Void",
+            "description": "A journey through the neon-lit streets of Tokyo as a drug dealer experiences life after death.",
+            "link": "https://www.imdb.com/title/tt1190536/"
+          },
+          {
+            "src": "./src/img/climax.png",
+            "title": "Climax",
+            "description": "A group of dancers descends into chaos and madness at a party.",
+            "link": "https://www.imdb.com/title/tt5074362/"
+          }
+        ]
+      },
+      {
+        "name": "Richard Linklater",
+        "style": "linklater-style",
+        "movies": [
+          {
+            "src": "./src/img/dazed.png",
+            "title": "Dazed and Confused",
+            "description": "A nostalgic look at the last day of school in 1976 Texas, featuring a variety of teenage characters.",
+            "link": "https://www.imdb.com/title/tt0106677/"
+          },
+          {
+            "src": "./src/img/before.png",
+            "title": "Before Sunrise",
+            "description": "A romantic drama about two strangers who meet on a train and explore Vienna together.",
+            "link": "https://www.imdb.com/title/tt0112471/"
+          },
+          {
+            "src": "./src/img/boyhood.png",
+            "title": "Boyhood",
+            "description": "A groundbreaking coming-of-age film that follows a boy's life from childhood to adulthood over twelve years.",
+            "link": "https://www.imdb.com/title/tt1065073/"
+          }
+        ]
+      },
+      {
+        "name": "Sofia Coppola",
+        "style": "copolla-style",
+        "movies": [
+          {
+            "src": "./src/img/lost.png",
+            "title": "Lost in Translation",
+            "description": "Two lonely souls form an unlikely bond in vibrant Tokyo, navigating cultural disconnection and personal isolation.",
+            "link": "https://www.imdb.com/title/tt0335266/"
+          },
+          {
+            "src": "./src/img/virgin.png",
+            "title": "The Virgin Suicides",
+            "description": "A haunting and thought-provoking exploration of the lives of five sisters and their profound impact on the suburban neighborhood around them.",
+            "link": "https://www.imdb.com/title/tt0159097/"
+          },
+          {
+            "src": "./src/img/marie.png",
+            "title": "Marie Antoinette",
+            "description": "A visually stunning portrayal of the iconic queen, balancing opulence and isolation in the lavish court of Versailles.",
+            "link": "https://www.imdb.com/title/tt0422720/"
+          }
+        ]
+      }
+    ]
+  }
+  
