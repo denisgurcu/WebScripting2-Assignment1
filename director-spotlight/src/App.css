@@ -21,28 +21,28 @@ body {
 }
 
 .tarantino-style {
-  padding: 20px;
+  padding: 30px;
   background-color: #f2b705;
   border-radius: 10px;
   margin-bottom: 40px;
 }
 
 .noe-style {
-  padding: 20px;
+  padding: 30px;
   background: linear-gradient(to bottom, #80479c, #ff1493);
   border-radius: 10px;
   margin-bottom: 40px;
 }
 
 .linklater-style {
-    padding: 20px;
+    padding: 30px;
     background-color: #87ceeb;
     border-radius: 10px;
     margin-bottom: 40px;
 }
 
 .copolla-style {
-    padding: 20px;
+    padding: 30px;
     background-color: #ffe4e1;
     border-radius: 10px;
     margin-bottom: 40px;
@@ -138,14 +138,19 @@ p {
 .fav-button {
   background: none;
   border: none;
-  color: #f00; /* Favorite color */
+  color: #f00; 
   cursor: pointer;
-  font-size: 16px;
+  font-size: 24px; 
+  display: flex;
+  align-items: center; 
+  padding: 10px; 
+  margin-top: 10px; 
 }
 
 .fav-button:hover {
   text-decoration: underline;
 }
+
 
 .read-more:hover {
   background-color: #222;
